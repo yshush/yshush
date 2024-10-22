@@ -1,4 +1,4 @@
-## Hi there 👋
+![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요%20양성훈입니다.)
 
 <!--
 **yshush/yshush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
